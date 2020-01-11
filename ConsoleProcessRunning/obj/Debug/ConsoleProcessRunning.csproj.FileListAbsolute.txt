@@ -1,0 +1,6 @@
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\bin\Debug\ConsoleProcessRunning.exe.config
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\bin\Debug\ConsoleProcessRunning.exe
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\bin\Debug\ConsoleProcessRunning.pdb
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\obj\Debug\ConsoleProcessRunning.csprojAssemblyReference.cache
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\obj\Debug\ConsoleProcessRunning.exe
+D:\Projekty_VS\ConsoleProcessRunning\ConsoleProcessRunning\obj\Debug\ConsoleProcessRunning.pdb
